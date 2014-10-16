@@ -1,0 +1,22 @@
+References:
+1.NotDracon, rat-ta-tat,http://notdracon.deviantart.com/art/ra-ta-tat-139991511,28th September 2014
+
+2.Towal,Pixel Cabin,http://towal.com/2008/10/pixel-cabin/,22th September 2014
+
+3.Night Driver,Beyond the Forest,http://www.nosoapradio.us/,24th September 2014
+
+4.Flying_Video,UFO,http://piq.codeus.net/picture/5168/ufo,26th September 2014
+
+5.Jorge,Julian,forest-theme,http://opengameart.org/content/forest-themed-sprites,julien.jorge@stuff-o-matic.com,25th September 2014
+
+6.Unknown,Jungle_Elements,http://opengameart.org/content/platformersidescroller-tiles-and-backgrounds,28th September 2014
+
+7.Lobster Boy,Jungle Tiles,http://www.pixeljoint.com/pixelart/48514.htm,27th September 2014
+
+8.Koenig Mike,Laser Sound,http://soundbible.com/1087-Laser.html, 28th September 2014
+
+9.Unknown, Cave Monster, http://i.imgur.com/2Iow1.gif,28th September 2014
+
+10.Glass, Kevin, PathFinding tutorial, http://www.cokeandcode.com/info/showsrc/showsrc.php?src=../../pathfinder/PathFindingTutorial/target/src/org/newdawn/slick/util/pathfinding/AStarPathFinder.java, 10th October 2014
+
+11. Thanks to all the students in the Audio participants for additional sounds, WRRMIL001@myuct.ac.za.
